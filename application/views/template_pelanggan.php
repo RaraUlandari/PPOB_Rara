@@ -186,7 +186,7 @@
             </div>
             <div class="top-menu">
             	<ul class="nav pull-right top-menu">
-                    <li><a class="logout" href="<?=base_url()?>index.php/Login/logout">Logout</a></li>
+                    <li><a class="logout" href="<?=base_url()?>index.php/Login_pelanggan/logout">Logout</a></li>
             	</ul>
             </div>
         </header>
